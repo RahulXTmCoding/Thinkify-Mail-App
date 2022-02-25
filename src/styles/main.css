@@ -1,0 +1,86 @@
+* {
+  color: #636363;
+}
+
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 50px;
+  background-color: #f4f5f9;
+  height: 90vh;
+}
+
+.medium-font {
+  font-size: 14px;
+}
+
+.large-font {
+  font-size: 16px;
+}
+
+.small-font {
+  font-size: 12px;
+}
+
+.extra-large-font {
+  font-size: 18px;
+}
+
+.very-large-font {
+  font-size: 26px;
+}
+
+.fb {
+  font-weight: bold;
+}
+
+.fsb {
+  font-weight: 600;
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+}
+
+.col {
+  display: flex;
+  flex-direction: column;
+}
+
+.gap20 {
+  gap: 20px;
+}
+
+.gap10 {
+  gap: 10px;
+}
+
+.mail-container {
+  height: 80vh;
+}
+
+.text-overflow {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  line-clamp: 1;
+  -webkit-box-orient: vertical;
+}
+
+.mt0 {
+  margin-top: 0px;
+}
+
+.mb0 {
+  margin-bottom: 0px;
+}
+
+.mb10 {
+  margin-bottom: 10px;
+}
+
+.mb20 {
+  margin-bottom: 20px;
+}

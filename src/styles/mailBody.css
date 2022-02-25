@@ -1,0 +1,18 @@
+.mail-body-container {
+  padding: 30px 25px;
+  width: 60%;
+  overflow: scroll;
+  position: relative;
+}
+
+.fav-button {
+  background-color: #e54065;
+  color: white;
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  border-radius: 20px;
+  padding: 8px 14px;
+  border: none;
+  cursor: pointer;
+}
